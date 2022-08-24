@@ -4,18 +4,18 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Banco Pan
 
-## Nome do grupo
+## Panorama Analytics
 
 ## Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="">Ariel Kisilrvzky</a>
+- <a href="https://www.linkedin.com/in/alberto-da-rocha-miranda-angrysine/">Alberto da Rocha</a>
+- <a href="https://www.linkedin.com/in/antonioribeiro893/">Antônio Ribeiro</a> 
+- <a href="https://www.linkedin.com/in/gabecarneiro/">Gabriel Carneiro</a> 
+- <a href="https://www.linkedin.com/in/henriquelfmatias/">Henrique Lemos</a>
+- <a href="https://www.linkedin.com/in/luiz-k-alencar/">Luiz Kama Alencar</a> 
+
 
 ## 📝 Descrição
 
