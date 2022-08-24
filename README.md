@@ -5,8 +5,10 @@
 </p>
 
 # Banco Pan
+<img src="https://github.com/2022M3T1/Projeto1/blob/main/imagens/banco-pan-logo-8.png?raw=true" width="400px">
 
 ## Panorama Analytics
+<img src="https://github.com/2022M3T1/Projeto1/blob/main/imagens/logo.jpeg?raw=true" width="300px">
 
 ## Integrantes: 
 - <a href="">Ariel Kisilrvzky</a>
