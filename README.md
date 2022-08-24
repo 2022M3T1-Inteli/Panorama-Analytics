@@ -21,7 +21,7 @@
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta).
+O projeto consiste em um modelo preditivo que visa maximizar a relação do Banco Pan, com o cliente. Indicando eventuais atritos, engajamento e potênciais novos clientes
 
 ## 📁 Estrutura de pastas
 
