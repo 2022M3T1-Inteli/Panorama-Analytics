@@ -51,6 +51,11 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
+* 1.0.0 - 12/08/2022
+    * Feature engineering
+    * Final da segunda sprint
+    * Documentação abordando as features selecionadas e todos os métodos e motivos de agregação
+    
 * 0.1.0 - 12/08/2022
     * O primeiro lançamento adequado
     * Final da primeira Sprint, e primeira versão da documentação
