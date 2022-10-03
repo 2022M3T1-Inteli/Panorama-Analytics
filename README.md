@@ -11,7 +11,7 @@
 <img src="https://github.com/2022M3T1/Projeto1/blob/main/imagens/logo.jpeg?raw=true" width="300px">
 
 ## Integrantes: 
-- <a href="">Ariel Kisilrvzky</a>
+- <a Ariel Kisilrvzky
 - <a href="https://www.linkedin.com/in/alberto-da-rocha-miranda-angrysine/">Alberto da Rocha</a>
 - <a href="https://www.linkedin.com/in/antonioribeiro893/">Antônio Ribeiro</a> 
 - <a href="https://www.linkedin.com/in/gabecarneiro/">Gabriel Carneiro</a> 
@@ -26,21 +26,24 @@ O projeto consiste em um modelo preditivo que visa maximizar a relação do Banc
 ## 📁 Estrutura de pastas
 
 - 📂 __Projeto 1__
-   - 📄 [README.md](README.md)
    - 📂 __[notebooks](notebooks/)__
+      - 📂 __[Análises](notebooks/Análises/)__
+      - 📂 __[Feature Engineering](notebooks/Feature%20Engineering/)__
+      - 📂 __[Modelos](notebooks/Modelos/)__
+         - __[📂 1 Conj. de Dados - Somatório](/notebooks/Modelos/1%20Conj.%20de%20Dados%20-%20Somat%C3%B3rio)__
+         - __[📂 2 Conj. de Dados - Anomes 11](/notebooks/Modelos/2%20Conj.%20de%20Dados%20-%20Anomes%2011)__
+         - __[📂 3 Conj. de Dados - Mediana](/notebooks/Modelos/3%20Conj.%20de%20Dados%20-%20Mediana)__
+         - __[📂 MLP classifier](/notebooks/Modelos/SVC)__
+         - __[📂 SVC](/notebooks/Modelos/MLP%20classifier)__
    - 📂 __[documentos](documentos/)__
-      - <a><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px">Predictive Model Document</a> 
-      Intech</a> 
+      - __[📂 antigos](documentos/antigos)__
+      - __[📂 outros](documentos/outros)__
    - 📁 __[imagens](imagens/)__
    
 
-Dentre os arquivos presentes na raiz do projeto, definem-se:
+E presente na raiz do projeto, define-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
-
-- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
 
 ## 💻 Execução dos projetos
 
