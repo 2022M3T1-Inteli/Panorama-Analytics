@@ -11,7 +11,7 @@
 <img src="https://github.com/2022M3T1/Projeto1/blob/main/imagens/logo.jpeg?raw=true" width="300px">
 
 ## Integrantes: 
-- <a Ariel Kisilrvzky
+- Ariel Kisilrvzky
 - <a href="https://www.linkedin.com/in/alberto-da-rocha-miranda-angrysine/">Alberto da Rocha</a>
 - <a href="https://www.linkedin.com/in/antonioribeiro893/">Antônio Ribeiro</a> 
 - <a href="https://www.linkedin.com/in/gabecarneiro/">Gabriel Carneiro</a> 
