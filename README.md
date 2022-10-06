@@ -47,7 +47,7 @@ E presente na raiz do projeto, define-se:
 
 - <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
-Na pasta deploy contém dois arquivos zips com os modelos treinados. Caso deseja utilizá-los, é necessário deszipados e importá-los em seu script. 
+Na pasta deploy contém dois arquivos zips com os modelos treinados. Caso deseja utilizá-los, é necessário deszipá-los e importá-los em seu script. 
 
 ## 💻 Execução dos projetos
 
