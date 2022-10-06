@@ -26,15 +26,16 @@ O projeto consiste em um modelo preditivo que visa maximizar a relação do Banc
 ## 📁 Estrutura de pastas
 
 - 📂 __Projeto 1__
-   - 📂 __[notebooks](notebooks/)__
-      - 📂 __[Análises](notebooks/Análises/)__
-      - 📂 __[Feature Engineering](notebooks/Feature%20Engineering/)__
-      - 📂 __[Modelos](notebooks/Modelos/)__
+   - 📂 __[Análises](notebooks/Análises/)__
+   - 📂 __[Feature Engineering](notebooks/Feature%20Engineering/)__
+   - 📂 __[Modelos](notebooks/Modelos/)__
          - __[📂 1 Conj. de Dados - Somatório](/notebooks/Modelos/1%20Conj.%20de%20Dados%20-%20Somat%C3%B3rio)__
          - __[📂 2 Conj. de Dados - Anomes 11](/notebooks/Modelos/2%20Conj.%20de%20Dados%20-%20Anomes%2011)__
          - __[📂 3 Conj. de Dados - Mediana](/notebooks/Modelos/3%20Conj.%20de%20Dados%20-%20Mediana)__
          - __[📂 MLP classifier](/notebooks/Modelos/SVC)__
          - __[📂 SVC](/notebooks/Modelos/MLP%20classifier)__
+         - [NotebookFinal_novo_cliente]
+         -[NotebookFinal_engajado]
    - 📂 __[documentos](documentos/)__
       - __[📂 antigos](documentos/antigos)__
       - __[📂 outros](documentos/outros)__
